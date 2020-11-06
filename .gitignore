@@ -4,3 +4,4 @@ TreeClassifers/.ipynb_checkpoints/*
 *.pdf
 *.svg
 *.to
+*__pycache__*
