@@ -5,4 +5,5 @@ TreeClassifers/.ipynb_checkpoints/*
 *.svg
 *.to
 *__pycache__*
+*.txt
 Schedule
